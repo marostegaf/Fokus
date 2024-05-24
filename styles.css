@@ -47,6 +47,11 @@ h1, h2, h3, h4, h5, h6 {
     padding: 4rem 0;
 }
 
+.app__logo-figure h1 {
+    color: var(--color-secondary);
+    font-size: 2rem;
+}
+
 .app__section-banner-container {
     width: 99rem;
     margin: 0 auto;
@@ -226,8 +231,6 @@ h1, h2, h3, h4, h5, h6 {
     position: absolute;
     visibility: hidden;
 }
-
-/* fim - toggle */
 
 /* Para Tablets */
 @media (max-width: 1024px) and (min-width: 768px) {
