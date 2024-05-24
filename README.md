@@ -1,13 +1,13 @@
-<h1 align="center"> Fokus </h1>
+<h1 align="center"> Study With Me </h1>
 
 <h3 align="center">
 <br>Técnica Pomodoro<br/>
 </h3>
 
-### ![image](https://github.com/marostegaf/Fokus/assets/103620713/9472473a-d594-427c-ad92-9f5a61bc9dcd)
-![image](https://github.com/marostegaf/Fokus/assets/103620713/c28f1d5b-6213-467d-8b87-92d6403dcf62)
-![image](https://github.com/marostegaf/Fokus/assets/103620713/77335c25-3a25-42f3-b1b9-e7d8b55de1fa)
-![image](https://github.com/marostegaf/Fokus/assets/103620713/4ca3ce25-8112-43cb-8d5f-d41843cdfabb)
+### ![image](https://github.com/marostegaf/StudyWithMe/assets/103620713/db8da638-50ca-4122-9792-5d0b6f9a0724)
+![image](https://github.com/marostegaf/StudyWithMe/assets/103620713/bcd38d30-2ef8-41a9-81cf-3316fcc6fa37)
+![image](https://github.com/marostegaf/StudyWithMe/assets/103620713/0dab3d0a-5a01-4abe-a1f2-4788271316dc)
+![image](https://github.com/marostegaf/StudyWithMe/assets/103620713/fc23c72f-0629-4943-92a5-6b6372c7d307)
 
 ## 🧑🏻‍💻 Tecnologias
 #### Esse projeto foi desenvolvido durante a formação Front End do projeto ONE - Oracle Next Education!
@@ -16,5 +16,5 @@
 - JavaScript
 
 ## 💻 Projeto
-Disponível em: 🔗[Fokus, clique aqui!](https://fokus-mm.vercel.app/)</br>
+Disponível em: 🔗[Study With Me, clique aqui!](https://studywithme-mm.vercel.app/)</br>
 
